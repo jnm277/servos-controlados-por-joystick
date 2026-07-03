@@ -29,6 +29,17 @@
 >FIO VERMELHO => 5V
 >FIO AMARELO => PINO PWM (~)
 
-# Vídeo testando no youtube!
+# Vídeo testando
+
+
+
+
+
+https://github.com/user-attachments/assets/3013d0dc-5741-492c-897b-0f3f799ba50e
+
+
+
+
+
 https://youtube.com/@circuitariasdodarcy?si=kYEdH2FUE7JNmnLW
 
